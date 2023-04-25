@@ -1,16 +1,16 @@
-### Hi there 👋
+1-FSO Network
 
-<!--
-**ocnpracs/ocnpracs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![1682432229189](https://user-images.githubusercontent.com/131741673/234339478-db2880e2-7181-48a9-ae19-bfe6aca203d9.jpg)
 
-Here are some ideas to get you started:
+2- P2P
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![1682432229189](https://user-images.githubusercontent.com/131741673/234339763-333e3136-3416-4452-9860-a8b5cdafdf67.jpg)
+
+3- WDM
+
+![1682432229222](https://user-images.githubusercontent.com/131741673/234340063-d01a8e0f-c282-4324-a092-23549d705ad5.jpg)
+
+
+4- Attenuation
+
+![image](https://user-images.githubusercontent.com/131741673/234340488-ccbb888d-5deb-4062-b458-c46bdd256c54.png)
