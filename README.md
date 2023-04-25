@@ -8,7 +8,8 @@
 
 3- WDM
 
-![1682432229222](https://user-images.githubusercontent.com/131741673/234340063-d01a8e0f-c282-4324-a092-23549d705ad5.jpg)
+![image](https://user-images.githubusercontent.com/131741673/234340930-ca3b99be-04b2-4bab-a435-8914aa0f27e5.png)
+
 
 
 4- Attenuation
