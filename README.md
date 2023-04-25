@@ -4,7 +4,8 @@
 
 2- P2P
 
-![1682432229189](https://user-images.githubusercontent.com/131741673/234339763-333e3136-3416-4452-9860-a8b5cdafdf67.jpg)
+![image](https://user-images.githubusercontent.com/131741673/234341691-bde69d07-cf6c-453d-a408-fcd15dd8d7a4.png)
+
 
 3- WDM
 
